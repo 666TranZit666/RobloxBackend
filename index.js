@@ -1,0 +1,10 @@
+{
+  "main": "index.js",
+  "compatibility_date": "2026-05-31",
+  "kv_namespaces": [
+    {
+      "binding": "ROBLOX_QUEUE",
+      "id": "4276936f69c74b1ab22fb3c8799b3a90"
+    }
+  ]
+}
